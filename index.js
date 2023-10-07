@@ -1,1 +1,1 @@
-gdgdg;
+console.log("OI, eu sou o Goku!")
